@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_notification">Ajouter une notification</string>
+    <string name="delete_notification">Supprimer une notification</string>
+    <string name="app_name">OQP Notification</string>
+</resources>
